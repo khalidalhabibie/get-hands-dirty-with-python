@@ -3,9 +3,7 @@ count_student = int(input("How many : "))
 
 #dictionaries for student, format {name:"score"}
 dict_students = {}
-#list
-dict_rankstudent = {}
-#highest score
+
 
 
 #ask student and student's score
